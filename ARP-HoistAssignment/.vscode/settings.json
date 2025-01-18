@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "motor_x_dc": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}

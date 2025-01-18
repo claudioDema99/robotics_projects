@@ -1,0 +1,7 @@
+{
+    "excludeActions": [
+        "action-to-be-hidden",
+        "^prefix_",
+        "suffix$"
+    ]
+}
